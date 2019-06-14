@@ -10,7 +10,7 @@ namespace loginunitaria
     public class UnitTestLogin
     {
         [TestMethod]
-        public void Conectarmysql()
+        public void Conectar()
         {
             Login login = new Login();
             Assert.IsTrue(login.Conexion(), "No se puede conectar");
@@ -18,14 +18,14 @@ namespace loginunitaria
 
         //TestVerificacion , TestConectar , TestVerificacion2
         [TestMethod]
-        public void Verificacionaceptada()
+        public void Verificacion1()
         {
             Login login = new Login();
            Assert.IsTrue(login.Acceso("rod", "123"));
         }
 
         [TestMethod]
-        public void Verificacioninvalida()
+        public void Verificacion2()
         {
             Login login = new Login();
             Assert.IsFalse(login.Acceso("rew", "125"));

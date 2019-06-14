@@ -14,3 +14,6 @@ C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\obj\Debug\Loginr.csproj.GenerateResou
 C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\obj\Debug\Loginr.exe
 C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\obj\Debug\Loginr.pdb
 C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\obj\Debug\Loginr.Login.resources
+C:\Users\Rodrigo Hdz\Documents\GitHub\Repositorionuevo1\Loginr\Loginr\bin\Debug\Loginr.exe.config
+C:\Users\Rodrigo Hdz\Documents\GitHub\Repositorionuevo1\Loginr\Loginr\obj\Debug\Loginr.exe
+C:\Users\Rodrigo Hdz\Documents\GitHub\Repositorionuevo1\Loginr\Loginr\obj\Debug\Loginr.pdb

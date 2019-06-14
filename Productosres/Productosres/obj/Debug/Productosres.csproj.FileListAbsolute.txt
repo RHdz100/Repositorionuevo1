@@ -13,3 +13,6 @@ C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\obj\
 C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\obj\Debug\Productosres.consultas.resources
 C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\obj\Debug\Productosres.Venta.resources
 C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\obj\Debug\Productosres.Platillos.resources
+C:\Users\Rodrigo Hdz\Documents\GitHub\Repositorionuevo1\Productosres\Productosres\bin\Debug\Productosres.exe.config
+C:\Users\Rodrigo Hdz\Documents\GitHub\Repositorionuevo1\Productosres\Productosres\obj\Debug\Productosres.exe
+C:\Users\Rodrigo Hdz\Documents\GitHub\Repositorionuevo1\Productosres\Productosres\obj\Debug\Productosres.pdb
