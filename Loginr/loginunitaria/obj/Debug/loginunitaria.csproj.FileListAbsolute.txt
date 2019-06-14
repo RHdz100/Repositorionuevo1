@@ -1,0 +1,13 @@
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\bin\Debug\loginunitaria.dll
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\bin\Debug\loginunitaria.pdb
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\bin\Debug\Loginr.exe
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\bin\Debug\MySql.Data.dll
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\bin\Debug\Loginr.pdb
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\bin\Debug\MySql.Data.xml
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\obj\Debug\loginunitaria.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\obj\Debug\loginunitaria.dll
+C:\Users\Rodrigo Hdz\Desktop\Loginr\loginunitaria\obj\Debug\loginunitaria.pdb

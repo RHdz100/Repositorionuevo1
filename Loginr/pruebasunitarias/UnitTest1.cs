@@ -15,7 +15,6 @@ namespace pruebasunitarias
             var user = "rod";
             var pass = "123";
             bool confirm = user == "select user from logineje.log" && pass == "select pass from logineje.log";
-            
 
         }
     }

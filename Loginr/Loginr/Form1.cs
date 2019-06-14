@@ -30,7 +30,6 @@ namespace Loginr
 
         private void btniniciar_Click(object sender, EventArgs e)
         {
-
             MySqlConnection conectar = new MySqlConnection("server=localhost;database=logineje; Uid=root;pwd=; ");
             conectar.Open();
 
