@@ -1,0 +1,13 @@
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\bin\Debug\platillosunitaria.dll
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\bin\Debug\platillosunitaria.pdb
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\bin\Debug\MySql.Data.dll
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\bin\Debug\Productosres.exe
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\bin\Debug\Google.Protobuf.dll
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\bin\Debug\Productosres.pdb
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\bin\Debug\MySql.Data.xml
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\obj\Debug\platillosunitaria.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\obj\Debug\platillosunitaria.dll
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\platillosunitaria\obj\Debug\platillosunitaria.pdb

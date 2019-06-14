@@ -8,9 +8,12 @@ C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\bin\Debug\BouncyCastle.Crypto.dll
 C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\bin\Debug\MySql.Data.xml
 C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\bin\Debug\MySql.Web.xml
 C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\obj\Debug\Loginr.csprojResolveAssemblyReference.cache
-C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\obj\Debug\Loginr.Form1.resources
 C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\obj\Debug\Loginr.Properties.Resources.resources
 C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\obj\Debug\Loginr.prueba.resources
 C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\obj\Debug\Loginr.csproj.GenerateResource.Cache
 C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\obj\Debug\Loginr.exe
 C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\obj\Debug\Loginr.pdb
+C:\Users\Rodrigo Hdz\Desktop\Loginr\Loginr\obj\Debug\Loginr.Login.resources
+C:\Users\Rodrigo Hdz\Documents\GitHub\Repositorionuevo1\Loginr\Loginr\bin\Debug\Loginr.exe.config
+C:\Users\Rodrigo Hdz\Documents\GitHub\Repositorionuevo1\Loginr\Loginr\obj\Debug\Loginr.exe
+C:\Users\Rodrigo Hdz\Documents\GitHub\Repositorionuevo1\Loginr\Loginr\obj\Debug\Loginr.pdb
