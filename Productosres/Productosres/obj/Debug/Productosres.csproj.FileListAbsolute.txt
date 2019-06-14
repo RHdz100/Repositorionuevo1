@@ -1,0 +1,15 @@
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\bin\Debug\Productosres.exe.config
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\obj\Debug\Productosres.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\obj\Debug\Productosres.Properties.Resources.resources
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\obj\Debug\Productosres.csproj.GenerateResource.Cache
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\bin\Debug\Productosres.exe
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\bin\Debug\Productosres.pdb
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\bin\Debug\MySql.Data.dll
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\bin\Debug\Google.Protobuf.dll
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\bin\Debug\MySql.Data.xml
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\obj\Debug\Productosres.exe
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\obj\Debug\Productosres.pdb
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\obj\Debug\Productosres.consultas.resources
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\obj\Debug\Productosres.Venta.resources
+C:\Users\Rodrigo Hdz\Desktop\PROYECTO RESTAURANTE\Productosres\Productosres\obj\Debug\Productosres.Platillos.resources
